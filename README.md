@@ -20,15 +20,6 @@ Códigos em linguagem C desenvolvidos ao longo da disciplina de Estrutura de Dad
 | 12 | Filas | `aula12_*.c` |
 | 13 | Árvores binárias de busca | `aula13_*.c` |
 
-## Como compilar
-
-Cada arquivo é independente e pode ser compilado com gcc:
-
-```bash
-gcc aula01_01_saida_basica.c -o programa
-./programa
-```
-
 ## Autor
 
 Marcelo Augusto Tavares da Silva
